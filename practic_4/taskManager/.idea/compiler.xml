@@ -10,5 +10,9 @@
         <module name="com.practic.taskManager.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="taskManager.taskManager.main~1" target="17" />
+      <module name="taskManager.taskManager.test~1" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
